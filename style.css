@@ -1,0 +1,25 @@
+.card {
+    background-color: rgb(95, 42, 42);
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 30px;
+    width: 200px;
+    height: 150px;
+    color: pink;
+    overflow: auto;
+}
+.card1 {
+     background-color: rgb(95, 42, 42);
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 30px;
+    
+    height: 150px;
+    color: pink;
+    width: 100%;
+
+}
